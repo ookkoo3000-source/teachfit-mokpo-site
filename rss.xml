@@ -6,10 +6,30 @@
   <description>목포 학교별 내신·과목별 화상과외 학습 전략</description>
   <language>ko-kr</language>
   <atom:link href="https://mokpo.slovrest.com/rss.xml" rel="self" type="application/rss+xml"/>
-  <lastBuildDate>Thu, 01 Jan 2026 00:00:00 +0900</lastBuildDate>
+  <lastBuildDate>Fri, 25 Sep 2026 09:20:00 +0900</lastBuildDate>
 
   <!-- RSS_ITEMS_START -->
-
+  <item>
+    <title>광주교육대학교목포부설초등학교 수학과외, 분수와 소수 개념을 그림으로 잡는 법</title>
+    <link>https://mokpo.slovrest.com/blog/mokpo-budeol-es-bunsu-sosu.html</link>
+    <guid>https://mokpo.slovrest.com/blog/mokpo-budeol-es-bunsu-sosu.html</guid>
+    <description>계산 규칙은 외웠는데 분수와 소수의 의미를 헷갈리는 아이, 광주교육대학교목포부설초등학교 고학년이 개념부터 탄탄히 잡는 방법을 정리했어요.</description>
+    <pubDate>Fri, 25 Sep 2026 09:20:00 +0900</pubDate>
+  </item>
+  <item>
+    <title>목상고등학교 고2 내신 등급 관리, 과목 수가 늘어나는 2학년의 시간 배분 전략</title>
+    <link>https://mokpo.slovrest.com/blog/mokpo-moksang-hs-go2-naeshin.html</link>
+    <guid>https://mokpo.slovrest.com/blog/mokpo-moksang-hs-go2-naeshin.html</guid>
+    <description>선택 과목이 늘고 공부량이 많아지는 고2, 목상고등학교 학생이 과목별 우선순위와 시간 배분으로 내신 등급을 지키는 방법을 정리했어요.</description>
+    <pubDate>Fri, 25 Sep 2026 09:10:00 +0900</pubDate>
+  </item>
+  <item>
+    <title>목포덕인중학교 사회·역사 기말고사 대비, 암기 과목을 흐름으로 정리하는 법</title>
+    <link>https://mokpo.slovrest.com/blog/mokpo-deogin-ms-amgi-gwamok-gimal.html</link>
+    <guid>https://mokpo.slovrest.com/blog/mokpo-deogin-ms-amgi-gwamok-gimal.html</guid>
+    <description>외울 게 많아 막막한 사회·역사, 목포덕인중학교 학생이 개념을 흐름으로 묶어 기억하고 서술형까지 대비하는 기말고사 공부법을 정리했어요.</description>
+    <pubDate>Fri, 25 Sep 2026 09:00:00 +0900</pubDate>
+  </item>
   <!-- RSS_ITEMS_END -->
 
 </channel>
