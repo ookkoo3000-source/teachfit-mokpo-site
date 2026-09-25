@@ -1,53 +1,53 @@
 :root{
-  --bg:#F6FAFA;
+  --bg:#FFF8F1;
   --surface:#FFFFFF;
-  --surface-2:#EAF6F7;
-  --ink:#13262B;
-  --muted:#4A6166;
-  --muted-2:#7B8E92;
-  --primary:#07839A;
-  --primary-strong:#05606F;
-  --primary-soft:#D8F1F4;
-  --accent:#FF7B54;
-  --accent-strong:#B8441F;
-  --accent-soft:#FFE8DE;
-  --line:#DDE9EA;
-  --shadow: 0 18px 40px -24px rgba(7,131,154,.35);
+  --surface-2:#FDEEE3;
+  --ink:#2A1A15;
+  --muted:#6B5048;
+  --muted-2:#98807A;
+  --primary:#B84A32;
+  --primary-strong:#8E3522;
+  --primary-soft:#FBE3DA;
+  --accent:#2B4C7E;
+  --accent-strong:#1D3558;
+  --accent-soft:#E1E8F3;
+  --line:#F1DFD4;
+  --shadow: 0 18px 40px -24px rgba(184,74,50,.35);
   --radius-lg: 20px;
   --radius-md: 12px;
 }
 @media (prefers-color-scheme: dark){
   :root:not([data-theme="light"]){
-    --bg:#0E1719; --surface:#152124; --surface-2:#19282B; --ink:#E8F2F3;
-    --muted:#A3B8BC; --muted-2:#7E9196; --primary:#1FAFC2; --primary-strong:#8EDFEA;
-    --primary-soft:#123A40; --accent:#FF7B54; --accent-strong:#FFB196; --accent-soft:#3D2016;
-    --line:#24363A; --shadow: 0 18px 40px -20px rgba(0,0,0,.6);
+    --bg:#1A1311; --surface:#231A17; --surface-2:#2A1F1B; --ink:#F6EAE4;
+    --muted:#C4ADA4; --muted-2:#98827A; --primary:#E0735A; --primary-strong:#FFB8A3;
+    --primary-soft:#40221A; --accent:#3D66A5; --accent-strong:#A9C3EC; --accent-soft:#1C2A40;
+    --line:#3A2B26; --shadow: 0 18px 40px -20px rgba(0,0,0,.6);
   }
 }
 :root[data-theme="dark"]{
-  --bg:#0E1719; --surface:#152124; --surface-2:#19282B; --ink:#E8F2F3;
-    --muted:#A3B8BC; --muted-2:#7E9196; --primary:#1FAFC2; --primary-strong:#8EDFEA;
-    --primary-soft:#123A40; --accent:#FF7B54; --accent-strong:#FFB196; --accent-soft:#3D2016;
-    --line:#24363A; --shadow: 0 18px 40px -20px rgba(0,0,0,.6);
+  --bg:#1A1311; --surface:#231A17; --surface-2:#2A1F1B; --ink:#F6EAE4;
+    --muted:#C4ADA4; --muted-2:#98827A; --primary:#E0735A; --primary-strong:#FFB8A3;
+    --primary-soft:#40221A; --accent:#3D66A5; --accent-strong:#A9C3EC; --accent-soft:#1C2A40;
+    --line:#3A2B26; --shadow: 0 18px 40px -20px rgba(0,0,0,.6);
 }
 
-/* 목포는 패널(상단바·통계·상담박스·CTA·배너)을 밝은 물빛·크림으로, 글자는 진하게 — 다크모드에서도 밝게 유지 */
+/* 목포는 패널(상단바·통계·상담박스·CTA·배너)을 밝은 피치·크림으로, 글자는 진하게 — 다크모드에서도 밝게 유지 */
 :root{
-  --panel-ink:#0E3940; --panel-muted:#4A6A71;
-  --topbar-ink:#0E3940; --on-dark-ink:#0E3940; --on-dark:#1E4750; --on-dark-muted:#4A6A71;
-  --cta-big-text:#1E4750; --banner-bg:#E3F4F6; --banner-glow:#FFE3D6; --banner-text:#1E4750; --banner-apply:#07839A;
-  --pbox-shadow:rgba(7,131,154,.25);
-  --band-top:#D6F1F5; --band-bottom:#FFE3D2; --band-hi:#07839A; --band-soft:#FFFFFF; --band-ink:#7FCBD4; --band-deep:#6FA985; --band-sun:#FF7B54;
-  --panel:#E3F4F6; --panel-2:#CFECEF; --on-accent:#3A1405; --banner-mark:#05606F;
+  --panel-ink:#3E2019; --panel-muted:#7A5A50;
+  --topbar-ink:#3E2019; --on-dark-ink:#3E2019; --on-dark:#4A2A22; --on-dark-muted:#7A5A50;
+  --cta-big-text:#4A2A22; --banner-bg:#FDEADF; --banner-glow:#FFE3A6; --banner-text:#4A2A22; --banner-apply:#B84A32;
+  --pbox-shadow:rgba(184,74,50,.25);
+  --band-top:#FFF3E4; --band-bottom:#FCC7A8; --band-hi:#B84A32; --band-soft:#FFFFFF; --band-ink:#F2A487; --band-deep:#E88C72; --band-sun:#FFB45E;
+  --panel:#FDEADF; --panel-2:#FBDCCB; --on-accent:#FFFFFF; --banner-mark:#8E3522;
 }
 
-/* 밝은 풍경 테마(engine/bright.css) 색 — 목포: 다도해 물빛 + 터쿼이즈 + 낙조 탠저린 */
+/* 밝은 풍경 테마(engine/bright.css) 색 — 목포: 낙조 크림·피치 + 벽돌 레드 + 딥 네이비 */
 :root{
-  --b-hero-bg:#E3F4F6; --b-fade:rgba(246,250,250,.96); --b-fade-mid:rgba(246,250,250,.82);
-  --b-ink:#13262B; --b-lead:#3F585E; --b-brand:#07839A; --b-brand-strong:#05606F;
-  --b-shadow:rgba(7,131,154,.45); --b-line:#E1EEF0; --b-line-strong:#92CFD8; --b-section:#EAF6F7;
-  --b-ph-art:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 600 110'%3E%3Ccircle cx='330' cy='52' r='16' fill='%23FF8A5B'/%3E%3Cg fill='none' stroke='%2335606A' stroke-width='2' stroke-linecap='round'%3E%3Cpath d='M230 30 q7 -6 14 0 q7 -6 14 0'/%3E%3Cpath d='M270 16 q6 -5 12 0 q6 -5 12 0'/%3E%3C/g%3E%3Cg stroke='%238FB5BE' stroke-width='1' fill='none'%3E%3Cpath d='M150 46 L110 84'/%3E%3Cpath d='M150 46 L128 84'/%3E%3Cpath d='M150 46 L172 84'/%3E%3Cpath d='M150 46 L190 84'/%3E%3Cpath d='M230 46 L208 84'/%3E%3Cpath d='M230 46 L252 84'/%3E%3Cpath d='M230 46 L270 84'/%3E%3C/g%3E%3Cg stroke='%237AA3AD' stroke-width='3' fill='none'%3E%3Cpath d='M146 92 L150 42 L154 92'/%3E%3Cpath d='M226 92 L230 42 L234 92'/%3E%3C/g%3E%3Crect x='90' y='83' width='200' height='3' fill='%238FB5BE'/%3E%3Cpath d='M380 110 L400 80 L420 64 L440 40 L456 22 L470 36 L482 28 L500 50 L530 72 L570 88 L600 94 V110 Z' fill='%239FCBA8'/%3E%3Cg fill='%23D7DCD2'%3E%3Cpath d='M444 36 L456 22 L468 34 L462 46 Z'/%3E%3Cpath d='M476 32 L482 28 L494 44 L480 48 Z'/%3E%3C/g%3E%3Cpath d='M456 22 L340 76' stroke='%2335606A' stroke-width='1.2'/%3E%3Crect x='392' y='52' width='12' height='9' rx='2' fill='%23FF7B54'/%3E%3Crect x='356' y='68' width='12' height='9' rx='2' fill='%230893A6'/%3E%3Cpath d='M0 110 V92 C 150 88 300 94 450 96 C 520 97 570 94 600 96 V110 Z' fill='%237FCBD4'/%3E%3Cpath d='M540 96 L544 66 L554 66 L558 96 Z' fill='%23E8574A'/%3E%3Crect x='543' y='76' width='12' height='4' fill='%23fff'/%3E%3Crect x='0' y='104' width='600' height='6' fill='%23F2E7D3'/%3E%3C/svg%3E");
-  --b-ph-ground:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1440 40' preserveAspectRatio='none'%3E%3Cpath d='M0 40 V22 Q 90 14 180 22 T 360 22 T 540 22 T 720 22 T 900 22 T 1080 22 T 1260 22 T 1440 22 V40 Z' fill='%237FCBD4'/%3E%3Cpath d='M0 32 H1440 V40 H0 Z' fill='%23F2E7D3'/%3E%3C/svg%3E");
+  --b-hero-bg:#FFEBD8; --b-fade:rgba(255,248,241,.96); --b-fade-mid:rgba(255,248,241,.82);
+  --b-ink:#2A1A15; --b-lead:#5E4239; --b-brand:#B84A32; --b-brand-strong:#8E3522;
+  --b-shadow:rgba(184,74,50,.45); --b-line:#F3E3D9; --b-line-strong:#EDB39E; --b-section:#FDEEE3;
+  --b-ph-art:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 600 110'%3E%3Cdefs%3E%3Cmask id='c'%3E%3Crect width='600' height='110' fill='white'/%3E%3Cg fill='black'%3E%3Crect y='62' width='600' height='2'/%3E%3Crect y='70' width='600' height='3'/%3E%3Crect y='79' width='600' height='4'/%3E%3C/g%3E%3C/mask%3E%3ClinearGradient id='s' x1='0' y1='0' x2='0' y2='1'%3E%3Cstop offset='0' stop-color='%23FFD66E'/%3E%3Cstop offset='1' stop-color='%23FF8E5E'/%3E%3C/linearGradient%3E%3C/defs%3E%3Ccircle cx='360' cy='72' r='40' fill='url(%23s)' mask='url(%23c)'/%3E%3Cg fill='none' stroke='%232B4C7E' stroke-width='2' stroke-linecap='round'%3E%3Cpath d='M250 30 q7 -6 14 0 q7 -6 14 0'/%3E%3Cpath d='M288 18 q6 -5 12 0 q6 -5 12 0'/%3E%3C/g%3E%3Cg fill='%23F6B495'%3E%3Cpath d='M60 96 Q 100 80 140 96 Z'/%3E%3Cpath d='M420 96 Q 450 84 480 96 Z'/%3E%3C/g%3E%3Cg stroke='%23D9765E' stroke-width='1' fill='none'%3E%3Cpath d='M250 50 L224 92'/%3E%3Cpath d='M250 50 L236 92'/%3E%3Cpath d='M250 50 L264 92'/%3E%3Cpath d='M250 50 L276 92'/%3E%3Cpath d='M320 50 L306 92'/%3E%3Cpath d='M320 50 L334 92'/%3E%3Cpath d='M320 50 L346 92'/%3E%3C/g%3E%3Cg stroke='%23C9644C' stroke-width='3.5'%3E%3Cpath d='M250 98 V46'/%3E%3Cpath d='M320 98 V46'/%3E%3C/g%3E%3Crect x='200' y='91' width='170' height='4' fill='%23C9644C'/%3E%3Cpath d='M420 110 L450 84 L480 66 L506 46 L520 38 L534 50 L560 70 L600 82 V110 Z' fill='%23C2583F'/%3E%3Cg fill='%238E3522'%3E%3Crect x='514' y='30' width='10' height='7'/%3E%3Cpath d='M509 31 L519 23 L529 31 Z'/%3E%3C/g%3E%3Cpath d='M0 110 V96 C 150 94 300 98 450 97 C 520 96 570 96 600 97 V110 Z' fill='%23F4AE92'/%3E%3Cg fill='%23FFE3A6'%3E%3Crect x='320' y='100' width='80' height='3' rx='1.5'/%3E%3Crect x='336' y='106' width='48' height='3' rx='1.5'/%3E%3C/g%3E%3C/svg%3E");
+  --b-ph-ground:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1440 40' preserveAspectRatio='none'%3E%3Cpath d='M0 40 V18 C 360 12 720 22 1080 16 C 1260 13 1380 18 1440 16 V40 Z' fill='%23F4AE92'/%3E%3Cpath d='M0 30 C 360 26 720 32 1080 28 C 1260 26 1380 29 1440 28 V40 H0 Z' fill='%23F9DCC4'/%3E%3C/svg%3E");
 }
 *{box-sizing:border-box;}
 html{background:var(--bg);}
@@ -449,14 +449,14 @@ mark.free{color:var(--b-brand-strong);}
   .page-hero{background-size:auto 70px, 100% 30px, auto; padding-bottom:56px;}
 }
 /* 목포: 공통 밝은 테마(engine/bright.css) 위에 목포만의 차이 */
-.hero .trust-row,.stats .lbl{color:#4A6166;}
-.stats .wrap > div + div{border-left-color:#E3EEF0;}
-.page-hero{background:var(--b-ph-art) right bottom / auto 110px no-repeat, var(--b-ph-ground) left bottom / 100% 40px no-repeat, linear-gradient(180deg, #E3F4F6, #F6FAFA);}
+.hero .trust-row,.stats .lbl{color:#6B5048;}
+.stats .wrap > div + div{border-left-color:#F3E3D9;}
+.page-hero{background:var(--b-ph-art) right bottom / auto 110px no-repeat, var(--b-ph-ground) left bottom / 100% 40px no-repeat, linear-gradient(180deg, #FFEBD8, #FFF8F1);}
 @media (max-width:900px){ .page-hero{background-size:auto 70px, 100% 30px, auto;} .stats .wrap > div + div{border-left:0;} }
-.apply-wrap,.intro-banner{border-color:#C7E6EA;}
+.apply-wrap,.intro-banner{border-color:#F4D2C2;}
 .ib-tag{background:rgba(255,255,255,.12); color:var(--on-dark);}
-.form-card{box-shadow:0 10px 30px -18px rgba(7,131,154,.35);}
-:root{--tip-bg:#E6F5F7; --tip-line:#B6DFE5; --tip-ink:#05606F; --card-bg:#F1F7F6; --check:#07839A;}
-@media (prefers-color-scheme: dark){:root:not([data-theme="light"]){--tip-bg:#11272B; --tip-line:#24464C; --tip-ink:#8EDFEA; --card-bg:#172326; --check:#1FAFC2;}}
-:root[data-theme="dark"]{--tip-bg:#11272B; --tip-line:#24464C; --tip-ink:#8EDFEA; --card-bg:#172326; --check:#1FAFC2;}
-.cta-main{box-shadow:0 10px 24px -10px rgba(184,68,31,.5);}
+.form-card{box-shadow:0 10px 30px -18px rgba(184,74,50,.35);}
+:root{--tip-bg:#FDEEE6; --tip-line:#F4CDBD; --tip-ink:#8E3522; --card-bg:#FDF4EE; --check:#B84A32;}
+@media (prefers-color-scheme: dark){:root:not([data-theme="light"]){--tip-bg:#2E1C17; --tip-line:#4F2E25; --tip-ink:#FFB8A3; --card-bg:#241A17; --check:#E0735A;}}
+:root[data-theme="dark"]{--tip-bg:#2E1C17; --tip-line:#4F2E25; --tip-ink:#FFB8A3; --card-bg:#241A17; --check:#E0735A;}
+.cta-main{box-shadow:0 10px 24px -10px rgba(43,76,126,.55);}
