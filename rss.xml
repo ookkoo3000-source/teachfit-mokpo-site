@@ -6,9 +6,44 @@
   <description>목포 학교별 내신·과목별 화상과외 학습 전략</description>
   <language>ko-kr</language>
   <atom:link href="https://mokpo.slovrest.com/rss.xml" rel="self" type="application/rss+xml"/>
-  <lastBuildDate>Tue, 29 Sep 2026 09:40:00 +0900</lastBuildDate>
+  <lastBuildDate>Wed, 30 Sep 2026 09:40:00 +0900</lastBuildDate>
 
   <!-- RSS_ITEMS_START -->
+  <item>
+    <title>중앙여자중학교 수학과외, 원의 성질 핵심 정리</title>
+    <link>https://mokpo.slovrest.com/blog/mokpo-jungang-girls-ms-suhak-won.html</link>
+    <guid>https://mokpo.slovrest.com/blog/mokpo-jungang-girls-ms-suhak-won.html</guid>
+    <description>원주각과 중심각의 관계, 접선의 성질이 헷갈리고 보조선을 긋지 못해 막히는 중앙여자중학교 학생을 위해 원의 성질 단원을 정리했어요.</description>
+    <pubDate>Wed, 30 Sep 2026 09:40:00 +0900</pubDate>
+  </item>
+  <item>
+    <title>부주초등학교 국어과외, 이야기 순서와 줄거리 말하기</title>
+    <link>https://mokpo.slovrest.com/blog/mokpo-buju-es-gugeo-julgeori.html</link>
+    <guid>https://mokpo.slovrest.com/blog/mokpo-buju-es-gugeo-julgeori.html</guid>
+    <description>이야기를 읽고 나서 줄거리를 물으면 뒤죽박죽 말하는 부주초등학교 학생을 위해 사건의 순서를 정리하고 줄거리를 말하는 방법을 정리했어요.</description>
+    <pubDate>Wed, 30 Sep 2026 09:30:00 +0900</pubDate>
+  </item>
+  <item>
+    <title>목포여자고등학교 국어과외, 과학·기술 지문 독해법</title>
+    <link>https://mokpo.slovrest.com/blog/mokpo-girls-hs-gugeo-gwahak-dokseo.html</link>
+    <guid>https://mokpo.slovrest.com/blog/mokpo-girls-hs-gugeo-gwahak-dokseo.html</guid>
+    <description>과학·기술 독서 지문만 나오면 원리 설명이 머릿속에 그려지지 않아 시간을 많이 쓰는 목포여자고등학교 학생을 위해 독해 방법을 정리했어요.</description>
+    <pubDate>Wed, 30 Sep 2026 09:20:00 +0900</pubDate>
+  </item>
+  <item>
+    <title>목포제일중학교 영어과외, 독해 기초 탄탄하게</title>
+    <link>https://mokpo.slovrest.com/blog/mokpo-jeil-ms-yeongeo-dokhae.html</link>
+    <guid>https://mokpo.slovrest.com/blog/mokpo-jeil-ms-yeongeo-dokhae.html</guid>
+    <description>단어는 아는데 문장 해석이 엉키고 글의 흐름을 놓치는 목포제일중학교 학생을 위해 영어 독해 기초를 단계별로 정리했어요.</description>
+    <pubDate>Wed, 30 Sep 2026 09:10:00 +0900</pubDate>
+  </item>
+  <item>
+    <title>부영초등학교 수학과외, 입체도형 겉넓이와 부피</title>
+    <link>https://mokpo.slovrest.com/blog/mokpo-buyeong-es-suhak-ipche.html</link>
+    <guid>https://mokpo.slovrest.com/blog/mokpo-buyeong-es-suhak-ipche.html</guid>
+    <description>직육면체의 겉넓이와 부피 공식이 헷갈리고 단위 변환에서 실수하는 부영초등학교 학생을 위해 입체도형 단원을 원리부터 정리했어요.</description>
+    <pubDate>Wed, 30 Sep 2026 09:00:00 +0900</pubDate>
+  </item>
   <item>
     <title>목포정명여자중학교 영어과외, 말하기 수행평가 준비</title>
     <link>https://mokpo.slovrest.com/blog/mokpo-jeongmyeong-girls-ms-yeongeo-malhagi.html</link>
