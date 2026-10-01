@@ -6,9 +6,44 @@
   <description>목포 학교별 내신·과목별 화상과외 학습 전략</description>
   <language>ko-kr</language>
   <atom:link href="https://mokpo.slovrest.com/rss.xml" rel="self" type="application/rss+xml"/>
-  <lastBuildDate>Wed, 30 Sep 2026 09:40:00 +0900</lastBuildDate>
+  <lastBuildDate>Thu, 01 Oct 2026 09:40:00 +0900</lastBuildDate>
 
   <!-- RSS_ITEMS_START -->
+  <item>
+    <title>목포하당중학교 수학과외, 일차방정식 풀이와 활용</title>
+    <link>https://mokpo.slovrest.com/blog/mokpo-hadang-ms-suhak-ilchabangjeongsik.html</link>
+    <guid>https://mokpo.slovrest.com/blog/mokpo-hadang-ms-suhak-ilchabangjeongsik.html</guid>
+    <description>이항할 때 부호를 자주 틀리고 활용 문제에서 방정식을 세우지 못하는 목포하당중학교 학생을 위해 일차방정식 단원을 정리했어요.</description>
+    <pubDate>Thu, 01 Oct 2026 09:40:00 +0900</pubDate>
+  </item>
+  <item>
+    <title>목포산정초등학교 영어과외, 영어 문장 만들기 첫걸음</title>
+    <link>https://mokpo.slovrest.com/blog/mokpo-sanjeong-es-yeongeo-munjang.html</link>
+    <guid>https://mokpo.slovrest.com/blog/mokpo-sanjeong-es-yeongeo-munjang.html</guid>
+    <description>영어 단어는 아는데 문장으로 말하거나 쓰지 못하는 목포산정초등학교 학생을 위해 쉬운 영어 문장 만들기 방법을 정리했어요.</description>
+    <pubDate>Thu, 01 Oct 2026 09:30:00 +0900</pubDate>
+  </item>
+  <item>
+    <title>목포여자상업고등학교 영어과외, 기초 문법 다시 잡기</title>
+    <link>https://mokpo.slovrest.com/blog/mokpo-girls-commerce-hs-yeongeo-gichomunbeop.html</link>
+    <guid>https://mokpo.slovrest.com/blog/mokpo-girls-commerce-hs-yeongeo-gichomunbeop.html</guid>
+    <description>중학교 영어가 흔들려 고등학교 영어 수업을 따라가기 어려운 목포여자상업고등학교 학생을 위해 기초 문법을 다시 정리했어요.</description>
+    <pubDate>Thu, 01 Oct 2026 09:20:00 +0900</pubDate>
+  </item>
+  <item>
+    <title>목포청호중학교 국어과외, 논설문 쓰기 수행평가 대비</title>
+    <link>https://mokpo.slovrest.com/blog/mokpo-cheongho-ms-gugeo-nonseolmun.html</link>
+    <guid>https://mokpo.slovrest.com/blog/mokpo-cheongho-ms-gugeo-nonseolmun.html</guid>
+    <description>주장하는 글을 쓰라고 하면 근거가 약하고 글의 짜임이 흐트러지는 목포청호중학교 학생을 위해 논설문 쓰기 방법을 정리했어요.</description>
+    <pubDate>Thu, 01 Oct 2026 09:10:00 +0900</pubDate>
+  </item>
+  <item>
+    <title>목포북교초등학교 수학과외, 소수의 곱셈 원리 이해</title>
+    <link>https://mokpo.slovrest.com/blog/mokpo-bukgyo-es-suhak-sosugopsem.html</link>
+    <guid>https://mokpo.slovrest.com/blog/mokpo-bukgyo-es-suhak-sosugopsem.html</guid>
+    <description>소수의 곱셈에서 소수점 위치를 자주 틀리는 목포북교초등학교 학생을 위해 소수의 곱셈을 원리부터 차근차근 정리했어요.</description>
+    <pubDate>Thu, 01 Oct 2026 09:00:00 +0900</pubDate>
+  </item>
   <item>
     <title>중앙여자중학교 수학과외, 원의 성질 핵심 정리</title>
     <link>https://mokpo.slovrest.com/blog/mokpo-jungang-girls-ms-suhak-won.html</link>
