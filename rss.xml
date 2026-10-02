@@ -6,9 +6,44 @@
   <description>목포 학교별 내신·과목별 화상과외 학습 전략</description>
   <language>ko-kr</language>
   <atom:link href="https://mokpo.slovrest.com/rss.xml" rel="self" type="application/rss+xml"/>
-  <lastBuildDate>Thu, 01 Oct 2026 09:40:00 +0900</lastBuildDate>
+  <lastBuildDate>Fri, 02 Oct 2026 09:40:00 +0900</lastBuildDate>
 
   <!-- RSS_ITEMS_START -->
+  <item>
+    <title>목포홍일중학교 수학과외, 좌표평면과 그래프 해석</title>
+    <link>https://mokpo.slovrest.com/blog/mokpo-hongil-ms-suhak-jwapyo.html</link>
+    <guid>https://mokpo.slovrest.com/blog/mokpo-hongil-ms-suhak-jwapyo.html</guid>
+    <description>좌표를 읽고 쓸 때 x와 y의 순서를 헷갈리고 그래프의 의미를 해석하지 못하는 목포홍일중학교 학생을 위해 좌표평면과 그래프를 정리했어요.</description>
+    <pubDate>Fri, 02 Oct 2026 09:40:00 +0900</pubDate>
+  </item>
+  <item>
+    <title>목포상동초등학교 영어과외, 영어 쓰기 첫걸음</title>
+    <link>https://mokpo.slovrest.com/blog/mokpo-sangdong-es-yeongeo-sseugi.html</link>
+    <guid>https://mokpo.slovrest.com/blog/mokpo-sangdong-es-yeongeo-sseugi.html</guid>
+    <description>영어 단어는 읽을 수 있는데 철자를 쓰거나 짧은 문장을 쓰는 것은 어려워하는 목포상동초등학교 학생을 위해 영어 쓰기를 단계별로 정리했어요.</description>
+    <pubDate>Fri, 02 Oct 2026 09:30:00 +0900</pubDate>
+  </item>
+  <item>
+    <title>목포항도여자중학교 국어과외, 음운의 변동 쉽게 정리</title>
+    <link>https://mokpo.slovrest.com/blog/mokpo-hangdo-girls-ms-gugeo-eumun.html</link>
+    <guid>https://mokpo.slovrest.com/blog/mokpo-hangdo-girls-ms-gugeo-eumun.html</guid>
+    <description>비음화, 유음화, 구개음화 같은 음운 변동의 종류가 헷갈리고 발음을 표기하는 문제에서 틀리는 목포항도여자중학교 학생을 위해 정리했어요.</description>
+    <pubDate>Fri, 02 Oct 2026 09:20:00 +0900</pubDate>
+  </item>
+  <item>
+    <title>목포정명여자고등학교 영어과외, 요약문 완성 유형 공략</title>
+    <link>https://mokpo.slovrest.com/blog/mokpo-jeongmyeong-girls-hs-yeongeo-yoyakmun.html</link>
+    <guid>https://mokpo.slovrest.com/blog/mokpo-jeongmyeong-girls-hs-yeongeo-yoyakmun.html</guid>
+    <description>모의고사 요약문 완성 문제에서 지문 내용은 이해했는데 빈칸 두 개를 모두 맞히지 못하는 목포정명여자고등학교 학생을 위해 풀이법을 정리했어요.</description>
+    <pubDate>Fri, 02 Oct 2026 09:10:00 +0900</pubDate>
+  </item>
+  <item>
+    <title>목포삼학초등학교 수학과외, 평균과 가능성 이해</title>
+    <link>https://mokpo.slovrest.com/blog/mokpo-samhak-es-suhak-pyeonggyun.html</link>
+    <guid>https://mokpo.slovrest.com/blog/mokpo-samhak-es-suhak-pyeonggyun.html</guid>
+    <description>평균을 구하는 원리를 모르고 공식만 외워 응용 문제에서 막히는 목포삼학초등학교 학생을 위해 평균과 가능성 단원을 정리했어요.</description>
+    <pubDate>Fri, 02 Oct 2026 09:00:00 +0900</pubDate>
+  </item>
   <item>
     <title>목포하당중학교 수학과외, 일차방정식 풀이와 활용</title>
     <link>https://mokpo.slovrest.com/blog/mokpo-hadang-ms-suhak-ilchabangjeongsik.html</link>
