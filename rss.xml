@@ -6,9 +6,44 @@
   <description>목포 학교별 내신·과목별 화상과외 학습 전략</description>
   <language>ko-kr</language>
   <atom:link href="https://mokpo.slovrest.com/rss.xml" rel="self" type="application/rss+xml"/>
-  <lastBuildDate>Fri, 02 Oct 2026 09:40:00 +0900</lastBuildDate>
+  <lastBuildDate>Sat, 03 Oct 2026 09:40:00 +0900</lastBuildDate>
 
   <!-- RSS_ITEMS_START -->
+  <item>
+    <title>목포혜인여자중학교 국어과외, 설명문 구조 파악하며 읽기</title>
+    <link>https://mokpo.slovrest.com/blog/mokpo-hyein-girls-ms-gugeo-seolmyeongmun.html</link>
+    <guid>https://mokpo.slovrest.com/blog/mokpo-hyein-girls-ms-gugeo-seolmyeongmun.html</guid>
+    <description>설명문을 끝까지 읽어도 중심 내용을 찾지 못하고 설명 방법 문제를 자주 틀리는 목포혜인여자중학교 학생을 위해 설명문 독해법을 정리했어요.</description>
+    <pubDate>Sat, 03 Oct 2026 09:40:00 +0900</pubDate>
+  </item>
+  <item>
+    <title>목포석현초등학교 국어과외, 일기 쓰기가 즐거워지는 방법</title>
+    <link>https://mokpo.slovrest.com/blog/mokpo-seokhyeon-es-gugeo-ilgi-sseugi.html</link>
+    <guid>https://mokpo.slovrest.com/blog/mokpo-seokhyeon-es-gugeo-ilgi-sseugi.html</guid>
+    <description>일기를 쓰라고 하면 오늘은 학교에 갔다로 시작해 한두 줄로 끝내는 목포석현초등학교 학생을 위해 일기 쓰는 방법을 정리했어요.</description>
+    <pubDate>Sat, 03 Oct 2026 09:30:00 +0900</pubDate>
+  </item>
+  <item>
+    <title>목포서산초등학교 수학과외, 곱셈구구 원리부터 익히기</title>
+    <link>https://mokpo.slovrest.com/blog/mokpo-seosan-es-suhak-gopsemgugu.html</link>
+    <guid>https://mokpo.slovrest.com/blog/mokpo-seosan-es-suhak-gopsemgugu.html</guid>
+    <description>곱셈구구를 노래로만 외워서 중간 단을 바로 떠올리지 못하는 목포서산초등학교 학생을 위해 곱셈의 원리와 구구단 익히는 법을 정리했어요.</description>
+    <pubDate>Sat, 03 Oct 2026 09:20:00 +0900</pubDate>
+  </item>
+  <item>
+    <title>문태중학교 영어과외, 수동태 문장 확실하게 쓰기</title>
+    <link>https://mokpo.slovrest.com/blog/mokpo-muntae-ms-yeongeo-sudongtae.html</link>
+    <guid>https://mokpo.slovrest.com/blog/mokpo-muntae-ms-yeongeo-sudongtae.html</guid>
+    <description>능동태를 수동태로 바꿀 때 be동사와 과거분사를 빠뜨리거나 시제를 놓치는 문태중학교 학생을 위해 수동태를 정리했어요.</description>
+    <pubDate>Sat, 03 Oct 2026 09:10:00 +0900</pubDate>
+  </item>
+  <item>
+    <title>목포고등학교 수학과외, 지수와 로그 개념 완성</title>
+    <link>https://mokpo.slovrest.com/blog/mokpo-hs-suhak-jisu-rogeu.html</link>
+    <guid>https://mokpo.slovrest.com/blog/mokpo-hs-suhak-jisu-rogeu.html</guid>
+    <description>지수법칙과 로그의 성질을 외웠는데도 계산에서 실수하고 그래프 문제에서 막히는 목포고등학교 학생을 위해 지수와 로그를 정리했어요.</description>
+    <pubDate>Sat, 03 Oct 2026 09:00:00 +0900</pubDate>
+  </item>
   <item>
     <title>목포홍일중학교 수학과외, 좌표평면과 그래프 해석</title>
     <link>https://mokpo.slovrest.com/blog/mokpo-hongil-ms-suhak-jwapyo.html</link>
