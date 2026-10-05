@@ -6,9 +6,44 @@
   <description>목포 학교별 내신·과목별 화상과외 학습 전략</description>
   <language>ko-kr</language>
   <atom:link href="https://mokpo.slovrest.com/rss.xml" rel="self" type="application/rss+xml"/>
-  <lastBuildDate>Sun, 04 Oct 2026 09:40:00 +0900</lastBuildDate>
+  <lastBuildDate>Mon, 05 Oct 2026 09:40:00 +0900</lastBuildDate>
 
   <!-- RSS_ITEMS_START -->
+  <item>
+    <title>목포용해초등학교 수학과외, 막대그래프와 꺾은선그래프</title>
+    <link>https://mokpo.slovrest.com/blog/mokpo-yonghae-es-suhak-geuraeppeu.html</link>
+    <guid>https://mokpo.slovrest.com/blog/mokpo-yonghae-es-suhak-geuraeppeu.html</guid>
+    <description>그래프의 눈금 한 칸이 나타내는 크기를 확인하지 않아 값을 잘못 읽고 막대그래프와 꺾은선그래프의 쓰임을 헷갈리는 목포용해초등학교 학생을 위해 정리했어요.</description>
+    <pubDate>Mon, 05 Oct 2026 09:40:00 +0900</pubDate>
+  </item>
+  <item>
+    <title>목포서부초등학교 국어과외, 속담 뜻 알고 바르게 쓰기</title>
+    <link>https://mokpo.slovrest.com/blog/mokpo-seobu-es-gugeo-sokdam.html</link>
+    <guid>https://mokpo.slovrest.com/blog/mokpo-seobu-es-gugeo-sokdam.html</guid>
+    <description>속담을 들으면 글자 그대로의 뜻으로만 이해하고 어떤 상황에서 쓰는지 몰라 활용하지 못하는 목포서부초등학교 학생을 위해 속담 공부법을 정리했어요.</description>
+    <pubDate>Mon, 05 Oct 2026 09:30:00 +0900</pubDate>
+  </item>
+  <item>
+    <title>목포옥암초등학교 영어과외, 날씨 묻고 답하기</title>
+    <link>https://mokpo.slovrest.com/blog/mokpo-okam-es-yeongeo-nalssi.html</link>
+    <guid>https://mokpo.slovrest.com/blog/mokpo-okam-es-yeongeo-nalssi.html</guid>
+    <description>날씨 단어는 알지만 It's 다음에 형용사를 쓰지 못하고 rain과 rainy를 헷갈리는 목포옥암초등학교 학생을 위해 날씨 표현을 정리했어요.</description>
+    <pubDate>Mon, 05 Oct 2026 09:20:00 +0900</pubDate>
+  </item>
+  <item>
+    <title>목포제일여자고등학교 영어과외, 문장 삽입 유형 공략</title>
+    <link>https://mokpo.slovrest.com/blog/mokpo-jeil-girls-hs-yeongeo-munjang-sabip.html</link>
+    <guid>https://mokpo.slovrest.com/blog/mokpo-jeil-girls-hs-yeongeo-munjang-sabip.html</guid>
+    <description>주어진 문장이 들어갈 위치를 찾는 문제에서 내용으로만 판단하다 자주 틀리는 목포제일여자고등학교 학생을 위해 논리적 단절을 찾는 풀이법을 정리했어요.</description>
+    <pubDate>Mon, 05 Oct 2026 09:10:00 +0900</pubDate>
+  </item>
+  <item>
+    <title>문태고등학교 수학과외, 확률의 뜻과 덧셈정리</title>
+    <link>https://mokpo.slovrest.com/blog/mokpo-muntae-hs-suhak-hwakryul.html</link>
+    <guid>https://mokpo.slovrest.com/blog/mokpo-muntae-hs-suhak-hwakryul.html</guid>
+    <description>확률 문제에서 전체 경우의 수를 잘못 세거나 덧셈정리와 여사건을 활용하지 못하는 문태고등학교 학생을 위해 확률의 기본을 정리했어요.</description>
+    <pubDate>Mon, 05 Oct 2026 09:00:00 +0900</pubDate>
+  </item>
   <item>
     <title>목포유달초등학교 수학과외, 분수의 곱셈 원리 이해</title>
     <link>https://mokpo.slovrest.com/blog/mokpo-yudal-es-suhak-bunsu-gopsem.html</link>
