@@ -6,9 +6,44 @@
   <description>목포 학교별 내신·과목별 화상과외 학습 전략</description>
   <language>ko-kr</language>
   <atom:link href="https://mokpo.slovrest.com/rss.xml" rel="self" type="application/rss+xml"/>
-  <lastBuildDate>Mon, 05 Oct 2026 09:40:00 +0900</lastBuildDate>
+  <lastBuildDate>Tue, 06 Oct 2026 09:40:00 +0900</lastBuildDate>
 
   <!-- RSS_ITEMS_START -->
+  <item>
+    <title>목포조리과학고등학교 영어과외, 내신 어휘 암기와 활용법</title>
+    <link>https://mokpo.slovrest.com/blog/mokpo-jori-hs-yeongeo-eohwi.html</link>
+    <guid>https://mokpo.slovrest.com/blog/mokpo-jori-hs-yeongeo-eohwi.html</guid>
+    <description>영어 단어를 외워도 금방 잊어버리고 본문 속에서 뜻을 떠올리지 못하는 목포조리과학고등학교 학생을 위해 내신 어휘를 오래 기억하는 방법을 정리했어요.</description>
+    <pubDate>Tue, 06 Oct 2026 09:40:00 +0900</pubDate>
+  </item>
+  <item>
+    <title>목포중앙초등학교 수학과외, 각도 재기와 삼각형 각의 합</title>
+    <link>https://mokpo.slovrest.com/blog/mokpo-jungang-es-suhak-gakdo.html</link>
+    <guid>https://mokpo.slovrest.com/blog/mokpo-jungang-es-suhak-gakdo.html</guid>
+    <description>각도기의 안쪽 눈금과 바깥쪽 눈금을 헷갈리거나 삼각형과 사각형의 각의 합으로 모르는 각을 구하지 못하는 목포중앙초등학교 학생을 위해 각도 단원을 정리했어요.</description>
+    <pubDate>Tue, 06 Oct 2026 09:30:00 +0900</pubDate>
+  </item>
+  <item>
+    <title>목포하당초등학교 영어과외, 물건 위치 묻고 답하기</title>
+    <link>https://mokpo.slovrest.com/blog/mokpo-hadang-es-yeongeo-wichi.html</link>
+    <guid>https://mokpo.slovrest.com/blog/mokpo-hadang-es-yeongeo-wichi.html</guid>
+    <description>Where is my bag?에 on, in, under를 헷갈리거나 물건이 여러 개일 때 Where are로 바꾸지 못하는 목포하당초등학교 학생을 위해 위치 표현을 정리했어요.</description>
+    <pubDate>Tue, 06 Oct 2026 09:20:00 +0900</pubDate>
+  </item>
+  <item>
+    <title>영흥고등학교 국어과외, 과학 기술 지문 독서 전략</title>
+    <link>https://mokpo.slovrest.com/blog/mokpo-yeongheung-hs-gugeo-gwahak-jimun.html</link>
+    <guid>https://mokpo.slovrest.com/blog/mokpo-yeongheung-hs-gugeo-gwahak-jimun.html</guid>
+    <description>과학 기술 지문만 나오면 낯선 용어와 원리 설명에 막혀 시간을 다 쓰고 틀리는 영흥고등학교 학생을 위해 비문학 과학 지문 읽는 방법을 정리했어요.</description>
+    <pubDate>Tue, 06 Oct 2026 09:10:00 +0900</pubDate>
+  </item>
+  <item>
+    <title>목포혜인여자고등학교 수학과외, 명제와 필요충분조건 정리</title>
+    <link>https://mokpo.slovrest.com/blog/mokpo-hyein-girls-hs-suhak-myeongje.html</link>
+    <guid>https://mokpo.slovrest.com/blog/mokpo-hyein-girls-hs-suhak-myeongje.html</guid>
+    <description>역, 이, 대우를 헷갈리고 필요조건과 충분조건 방향을 반대로 판단하는 목포혜인여자고등학교 학생을 위해 명제 단원을 진리집합 중심으로 정리했어요.</description>
+    <pubDate>Tue, 06 Oct 2026 09:00:00 +0900</pubDate>
+  </item>
   <item>
     <title>목포용해초등학교 수학과외, 막대그래프와 꺾은선그래프</title>
     <link>https://mokpo.slovrest.com/blog/mokpo-yonghae-es-suhak-geuraeppeu.html</link>
