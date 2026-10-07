@@ -6,9 +6,44 @@
   <description>목포 학교별 내신·과목별 화상과외 학습 전략</description>
   <language>ko-kr</language>
   <atom:link href="https://mokpo.slovrest.com/rss.xml" rel="self" type="application/rss+xml"/>
-  <lastBuildDate>Tue, 06 Oct 2026 09:40:00 +0900</lastBuildDate>
+  <lastBuildDate>Wed, 07 Oct 2026 09:40:00 +0900</lastBuildDate>
 
   <!-- RSS_ITEMS_START -->
+  <item>
+    <title>목포정명여자고등학교 국어과외, 현대소설 갈등과 인물 분석</title>
+    <link>https://mokpo.slovrest.com/blog/mokpo-jeongmyeong-girls-hs-gugeo-soseol-galdeung.html</link>
+    <guid>https://mokpo.slovrest.com/blog/mokpo-jeongmyeong-girls-hs-gugeo-soseol-galdeung.html</guid>
+    <description>현대소설을 읽으면 줄거리는 알겠는데 갈등의 양상과 인물의 심리, 서술 방식의 효과를 근거로 설명하지 못하는 목포정명여자고등학교 학생을 위해 정리했어요.</description>
+    <pubDate>Wed, 07 Oct 2026 09:40:00 +0900</pubDate>
+  </item>
+  <item>
+    <title>목포고등학교 수학과외, 나머지정리와 인수정리 활용</title>
+    <link>https://mokpo.slovrest.com/blog/mokpo-hs-suhak-nameoji-jeongri.html</link>
+    <guid>https://mokpo.slovrest.com/blog/mokpo-hs-suhak-nameoji-jeongri.html</guid>
+    <description>일차식으로 나눈 나머지를 구할 때 대입할 값의 부호를 틀리거나 이차식으로 나눈 나머지와 인수정리 활용에서 막히는 목포고등학교 학생을 위해 정리했어요.</description>
+    <pubDate>Wed, 07 Oct 2026 09:30:00 +0900</pubDate>
+  </item>
+  <item>
+    <title>목포청호초등학교 국어과외, 독서 감상문 줄거리와 느낌 쓰기</title>
+    <link>https://mokpo.slovrest.com/blog/mokpo-cheongho-es-gugeo-gamsangmun.html</link>
+    <guid>https://mokpo.slovrest.com/blog/mokpo-cheongho-es-gugeo-gamsangmun.html</guid>
+    <description>독서 감상문을 쓰면 줄거리만 길게 쓰고 느낀 점은 재미있었다로 끝내는 목포청호초등학교 학생을 위해 독서 감상문의 짜임과 쓰는 방법을 정리했어요.</description>
+    <pubDate>Wed, 07 Oct 2026 09:20:00 +0900</pubDate>
+  </item>
+  <item>
+    <title>목포한빛초등학교 수학과외, 분수의 나눗셈 역수 곱하기</title>
+    <link>https://mokpo.slovrest.com/blog/mokpo-hanbit-es-suhak-bunsu-nanutsem.html</link>
+    <guid>https://mokpo.slovrest.com/blog/mokpo-hanbit-es-suhak-bunsu-nanutsem.html</guid>
+    <description>분수의 나눗셈에서 나누는 수가 아닌 나누어지는 수를 뒤집거나 역수로 바꾸는 이유를 몰라 실수하는 목포한빛초등학교 학생을 위해 분수의 나눗셈을 정리했어요.</description>
+    <pubDate>Wed, 07 Oct 2026 09:10:00 +0900</pubDate>
+  </item>
+  <item>
+    <title>목포여자중학교 영어과외, 현재완료 용법과 과거 시제 구분</title>
+    <link>https://mokpo.slovrest.com/blog/mokpo-girls-ms-yeongeo-hyeonjae-wanryo.html</link>
+    <guid>https://mokpo.slovrest.com/blog/mokpo-girls-ms-yeongeo-hyeonjae-wanryo.html</guid>
+    <description>have p.p.의 과거분사 형태를 틀리거나 yesterday 같은 과거 표현과 현재완료를 함께 쓰는 목포여자중학교 학생을 위해 현재완료를 정리했어요.</description>
+    <pubDate>Wed, 07 Oct 2026 09:00:00 +0900</pubDate>
+  </item>
   <item>
     <title>목포조리과학고등학교 영어과외, 내신 어휘 암기와 활용법</title>
     <link>https://mokpo.slovrest.com/blog/mokpo-jori-hs-yeongeo-eohwi.html</link>
