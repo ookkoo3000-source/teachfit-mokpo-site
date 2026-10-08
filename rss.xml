@@ -6,9 +6,44 @@
   <description>목포 학교별 내신·과목별 화상과외 학습 전략</description>
   <language>ko-kr</language>
   <atom:link href="https://mokpo.slovrest.com/rss.xml" rel="self" type="application/rss+xml"/>
-  <lastBuildDate>Wed, 07 Oct 2026 09:40:00 +0900</lastBuildDate>
+  <lastBuildDate>Thu, 08 Oct 2026 09:40:00 +0900</lastBuildDate>
 
   <!-- RSS_ITEMS_START -->
+  <item>
+    <title>목포공업고등학교 수학과외, 이차방정식 풀이와 판별식</title>
+    <link>https://mokpo.slovrest.com/blog/mokpo-gongeop-hs-suhak-icha-bangjeongsik.html</link>
+    <guid>https://mokpo.slovrest.com/blog/mokpo-gongeop-hs-suhak-icha-bangjeongsik.html</guid>
+    <description>인수분해와 근의 공식 중 무엇을 써야 할지 모르고 판별식으로 근을 판별하거나 근과 계수의 관계를 활용하지 못하는 목포공업고등학교 학생을 위해 정리했어요.</description>
+    <pubDate>Thu, 08 Oct 2026 09:40:00 +0900</pubDate>
+  </item>
+  <item>
+    <title>목포덕인중학교 영어과외, 관계대명사 who which that</title>
+    <link>https://mokpo.slovrest.com/blog/mokpo-deokin-ms-yeongeo-gwangye-daemyeongsa.html</link>
+    <guid>https://mokpo.slovrest.com/blog/mokpo-deokin-ms-yeongeo-gwangye-daemyeongsa.html</guid>
+    <description>선행사에 따라 who와 which를 고르지 못하거나 관계대명사 뒤에 대명사를 한 번 더 쓰고 두 문장 연결 서술형을 어려워하는 목포덕인중학교 학생을 위해 정리했어요.</description>
+    <pubDate>Thu, 08 Oct 2026 09:30:00 +0900</pubDate>
+  </item>
+  <item>
+    <title>목포애향초등학교 국어과외, 글의 주제와 중심 생각 찾기</title>
+    <link>https://mokpo.slovrest.com/blog/mokpo-aehyang-es-gugeo-juje-chatgi.html</link>
+    <guid>https://mokpo.slovrest.com/blog/mokpo-aehyang-es-gugeo-juje-chatgi.html</guid>
+    <description>글을 읽고 주제를 물으면 글에 나온 낱말 하나로 답하거나 세부 내용을 주제로 고르는 목포애향초등학교 학생을 위해 주제와 중심 생각 찾는 방법을 정리했어요.</description>
+    <pubDate>Thu, 08 Oct 2026 09:20:00 +0900</pubDate>
+  </item>
+  <item>
+    <title>목포신흥초등학교 영어과외, 전화로 말하고 약속 정하기</title>
+    <link>https://mokpo.slovrest.com/blog/mokpo-sinheung-es-yeongeo-jeonhwa.html</link>
+    <guid>https://mokpo.slovrest.com/blog/mokpo-sinheung-es-yeongeo-jeonhwa.html</guid>
+    <description>전화를 걸 때 I am Minji.처럼 말하거나 May I speak to ...?를 몰라 대화를 시작하지 못하고 약속 시간과 장소를 정하지 못하는 목포신흥초등학교 학생을 위해 정리했어요.</description>
+    <pubDate>Thu, 08 Oct 2026 09:10:00 +0900</pubDate>
+  </item>
+  <item>
+    <title>목포서해초등학교 수학과외, 약수와 배수 공약수 공배수</title>
+    <link>https://mokpo.slovrest.com/blog/mokpo-seohae-es-suhak-yaksu-baesu.html</link>
+    <guid>https://mokpo.slovrest.com/blog/mokpo-seohae-es-suhak-yaksu-baesu.html</guid>
+    <description>약수와 배수를 헷갈리거나 최대공약수와 최소공배수를 구하는 방법, 활용 문제에서 무엇을 구해야 할지 몰라 막히는 목포서해초등학교 학생을 위해 정리했어요.</description>
+    <pubDate>Thu, 08 Oct 2026 09:00:00 +0900</pubDate>
+  </item>
   <item>
     <title>목포정명여자고등학교 국어과외, 현대소설 갈등과 인물 분석</title>
     <link>https://mokpo.slovrest.com/blog/mokpo-jeongmyeong-girls-hs-gugeo-soseol-galdeung.html</link>
