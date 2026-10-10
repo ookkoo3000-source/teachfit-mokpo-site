@@ -6,9 +6,44 @@
   <description>목포 학교별 내신·과목별 화상과외 학습 전략</description>
   <language>ko-kr</language>
   <atom:link href="https://mokpo.slovrest.com/rss.xml" rel="self" type="application/rss+xml"/>
-  <lastBuildDate>Thu, 08 Oct 2026 09:40:00 +0900</lastBuildDate>
+  <lastBuildDate>Sat, 10 Oct 2026 09:40:00 +0900</lastBuildDate>
 
   <!-- RSS_ITEMS_START -->
+  <item>
+    <title>목포여자고등학교 영어과외, 주어 동사 수 일치 어법</title>
+    <link>https://mokpo.slovrest.com/blog/mokpo-girls-hs-yeongeo-suilchi.html</link>
+    <guid>https://mokpo.slovrest.com/blog/mokpo-girls-hs-yeongeo-suilchi.html</guid>
+    <description>주어와 동사 사이에 긴 수식어가 끼면 수 일치를 틀리고 each, the number of 같은 주어에서 함정에 빠지는 목포여자고등학교 학생을 위해 수 일치 어법을 정리했어요.</description>
+    <pubDate>Sat, 10 Oct 2026 09:40:00 +0900</pubDate>
+  </item>
+  <item>
+    <title>목포하당중학교 수학과외, 피타고라스 정리와 활용</title>
+    <link>https://mokpo.slovrest.com/blog/mokpo-hadang-ms-suhak-pitagoras.html</link>
+    <guid>https://mokpo.slovrest.com/blog/mokpo-hadang-ms-suhak-pitagoras.html</guid>
+    <description>피타고라스 정리 공식은 알지만 빗변을 잘못 잡거나 활용 문제에서 직각삼각형을 찾지 못하는 목포하당중학교 학생을 위해 정리의 원리와 활용법을 정리했어요.</description>
+    <pubDate>Sat, 10 Oct 2026 09:30:00 +0900</pubDate>
+  </item>
+  <item>
+    <title>목포연산초등학교 국어과외, 모르는 낱말 뜻 짐작하기</title>
+    <link>https://mokpo.slovrest.com/blog/mokpo-yeonsan-es-gugeo-natmal-tteut-jjimjak.html</link>
+    <guid>https://mokpo.slovrest.com/blog/mokpo-yeonsan-es-gugeo-natmal-tteut-jjimjak.html</guid>
+    <description>글을 읽다가 모르는 낱말이 나오면 그냥 넘기거나 읽기를 멈춰 버리는 목포연산초등학교 학생을 위해 앞뒤 문장과 낱말의 짜임으로 뜻을 짐작하는 방법을 정리했어요.</description>
+    <pubDate>Sat, 10 Oct 2026 09:20:00 +0900</pubDate>
+  </item>
+  <item>
+    <title>목포부주초등학교 영어과외, 가족 소개하는 영어 표현</title>
+    <link>https://mokpo.slovrest.com/blog/mokpo-buju-es-yeongeo-gajok-sogae.html</link>
+    <guid>https://mokpo.slovrest.com/blog/mokpo-buju-es-yeongeo-gajok-sogae.html</guid>
+    <description>This is my father.처럼 가족을 소개하는 말은 알지만 직업과 성격까지 이어서 말하지 못하고 he와 she를 헷갈리는 목포부주초등학교 학생을 위해 가족 소개 영어를 정리했어요.</description>
+    <pubDate>Sat, 10 Oct 2026 09:10:00 +0900</pubDate>
+  </item>
+  <item>
+    <title>목포부영초등학교 수학과외, 들이와 무게 단위 바꾸기</title>
+    <link>https://mokpo.slovrest.com/blog/mokpo-buyeong-es-suhak-deuli-muge.html</link>
+    <guid>https://mokpo.slovrest.com/blog/mokpo-buyeong-es-suhak-deuli-muge.html</guid>
+    <description>L와 mL, kg과 g 단위를 바꿀 때 0의 개수를 헷갈리고 받아올림이 있는 들이와 무게 계산에서 실수하는 목포부영초등학교 학생을 위해 들이와 무게를 정리했어요.</description>
+    <pubDate>Sat, 10 Oct 2026 09:00:00 +0900</pubDate>
+  </item>
   <item>
     <title>목포공업고등학교 수학과외, 이차방정식 풀이와 판별식</title>
     <link>https://mokpo.slovrest.com/blog/mokpo-gongeop-hs-suhak-icha-bangjeongsik.html</link>
