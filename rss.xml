@@ -6,9 +6,44 @@
   <description>목포 학교별 내신·과목별 화상과외 학습 전략</description>
   <language>ko-kr</language>
   <atom:link href="https://mokpo.slovrest.com/rss.xml" rel="self" type="application/rss+xml"/>
-  <lastBuildDate>Tue, 13 Oct 2026 09:40:00 +0900</lastBuildDate>
+  <lastBuildDate>Wed, 14 Oct 2026 09:40:00 +0900</lastBuildDate>
 
   <!-- RSS_ITEMS_START -->
+  <item>
+    <title>목포중앙고등학교 영어과외, 빈칸 추론 유형 접근법</title>
+    <link>https://mokpo.slovrest.com/blog/mokpo-jungang-hs-yeongeo-binkan-churon.html</link>
+    <guid>https://mokpo.slovrest.com/blog/mokpo-jungang-hs-yeongeo-binkan-churon.html</guid>
+    <description>모의고사 빈칸 추론 문제에서 빈칸 문장만 보고 감으로 고르거나 글의 주제와 빈칸을 연결하지 못하는 목포중앙고등학교 학생을 위해 빈칸 추론의 단서 찾기와 풀이 순서를 정리했어요.</description>
+    <pubDate>Wed, 14 Oct 2026 09:40:00 +0900</pubDate>
+  </item>
+  <item>
+    <title>목포옥암중학교 수학과외, 인수분해 공식과 활용</title>
+    <link>https://mokpo.slovrest.com/blog/mokpo-okam-ms-suhak-insubunhae.html</link>
+    <guid>https://mokpo.slovrest.com/blog/mokpo-okam-ms-suhak-insubunhae.html</guid>
+    <description>공통인수를 끝까지 묶지 않거나 이차식의 인수분해에서 두 수의 합과 곱을 헷갈리는 목포옥암중학교 학생을 위해 인수분해 공식과 순서, 활용 방법을 정리했어요.</description>
+    <pubDate>Wed, 14 Oct 2026 09:30:00 +0900</pubDate>
+  </item>
+  <item>
+    <title>목포애향중학교 국어과외, 홑문장과 겹문장 문장의 짜임</title>
+    <link>https://mokpo.slovrest.com/blog/mokpo-aehyang-ms-gugeo-munjang-jjaim.html</link>
+    <guid>https://mokpo.slovrest.com/blog/mokpo-aehyang-ms-gugeo-munjang-jjaim.html</guid>
+    <description>홑문장과 겹문장을 구분하지 못하고 이어진문장과 안은문장, 안긴문장의 종류를 헷갈리는 목포애향중학교 학생을 위해 문장의 짜임과 분석 방법을 정리했어요.</description>
+    <pubDate>Wed, 14 Oct 2026 09:20:00 +0900</pubDate>
+  </item>
+  <item>
+    <title>목포산정초등학교 영어과외, 지난 주말에 한 일 과거형</title>
+    <link>https://mokpo.slovrest.com/blog/mokpo-sanjeong-es-yeongeo-jinan-jumal.html</link>
+    <guid>https://mokpo.slovrest.com/blog/mokpo-sanjeong-es-yeongeo-jinan-jumal.html</guid>
+    <description>What did you do last weekend? 질문에 I go to the park처럼 현재형으로 대답하거나 불규칙 과거형을 틀리는 목포산정초등학교 학생을 위해 지난 일을 말하는 영어 표현을 정리했어요.</description>
+    <pubDate>Wed, 14 Oct 2026 09:10:00 +0900</pubDate>
+  </item>
+  <item>
+    <title>목포청호초등학교 수학과외, 직육면체 겉넓이와 부피</title>
+    <link>https://mokpo.slovrest.com/blog/mokpo-cheongho-es-suhak-gyeotneolbi-bupi.html</link>
+    <guid>https://mokpo.slovrest.com/blog/mokpo-cheongho-es-suhak-gyeotneolbi-bupi.html</guid>
+    <description>겉넓이와 부피를 헷갈려 단위를 잘못 쓰거나 직육면체의 겉넓이를 구할 때 면을 빠뜨리는 목포청호초등학교 학생을 위해 직육면체의 겉넓이와 부피 구하는 방법을 정리했어요.</description>
+    <pubDate>Wed, 14 Oct 2026 09:00:00 +0900</pubDate>
+  </item>
   <item>
     <title>목포이로초등학교 국어과외, 관용 표현의 뜻과 쓰임</title>
     <link>https://mokpo.slovrest.com/blog/mokpo-iro-es-gugeo-gwanyong-pyohyeon.html</link>
