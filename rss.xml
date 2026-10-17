@@ -6,9 +6,16 @@
   <description>목포 학교별 내신·과목별 화상과외 학습 전략</description>
   <language>ko-kr</language>
   <atom:link href="https://mokpo.slovrest.com/rss.xml" rel="self" type="application/rss+xml"/>
-  <lastBuildDate>Wed, 14 Oct 2026 09:40:00 +0900</lastBuildDate>
+  <lastBuildDate>Sat, 17 Oct 2026 09:00:00 +0900</lastBuildDate>
 
   <!-- RSS_ITEMS_START -->
+  <item>
+    <title>2028 수능 수학 범위, 미적분Ⅱ와 기하는 나오지 않나요</title>
+    <link>https://mokpo.slovrest.com/blog/mokpo-2028-suneung-suhak-beomwi.html</link>
+    <guid>https://mokpo.slovrest.com/blog/mokpo-2028-suneung-suhak-beomwi.html</guid>
+    <description>2028학년도 수능부터 수학은 선택과목 없이 대수·미적분Ⅰ·확률과 통계를 모두 응시하고, 미적분Ⅱ와 기하는 출제하지 않아요. 현행 수능과 달라진 점과 학년별로 점검할 내용을 교육부 확정안 기준으로 정리했어요.</description>
+    <pubDate>Sat, 17 Oct 2026 09:00:00 +0900</pubDate>
+  </item>
   <item>
     <title>목포중앙고등학교 영어과외, 빈칸 추론 유형 접근법</title>
     <link>https://mokpo.slovrest.com/blog/mokpo-jungang-hs-yeongeo-binkan-churon.html</link>
