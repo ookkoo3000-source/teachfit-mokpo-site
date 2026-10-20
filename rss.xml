@@ -6,9 +6,16 @@
   <description>목포 학교별 내신·과목별 화상과외 학습 전략</description>
   <language>ko-kr</language>
   <atom:link href="https://mokpo.slovrest.com/rss.xml" rel="self" type="application/rss+xml"/>
-  <lastBuildDate>Sat, 17 Oct 2026 09:00:00 +0900</lastBuildDate>
+  <lastBuildDate>Tue, 20 Oct 2026 09:00:00 +0900</lastBuildDate>
 
   <!-- RSS_ITEMS_START -->
+  <item>
+    <title>초등학생이 숙제할 때 자꾸 일어나고 딴짓할 때, 집에서 바꿔 볼 것</title>
+    <link>https://mokpo.slovrest.com/blog/mokpo-chodeung-sukje-jipjung-mothal-ttae.html</link>
+    <guid>https://mokpo.slovrest.com/blog/mokpo-chodeung-sukje-jipjung-mothal-ttae.html</guid>
+    <description>초등학생이 숙제를 오래 붙잡고 딴짓을 한다면 의지보다 숙제의 크기와 환경 문제인 경우가 많아요. 숙제를 작게 나누는 법, 책상 정리, 시작 신호 만들기를 학습 예시와 함께 정리했어요.</description>
+    <pubDate>Tue, 20 Oct 2026 09:00:00 +0900</pubDate>
+  </item>
   <item>
     <title>2028 수능 수학 범위, 미적분Ⅱ와 기하는 나오지 않나요</title>
     <link>https://mokpo.slovrest.com/blog/mokpo-2028-suneung-suhak-beomwi.html</link>
