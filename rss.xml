@@ -6,9 +6,16 @@
   <description>목포 학교별 내신·과목별 화상과외 학습 전략</description>
   <language>ko-kr</language>
   <atom:link href="https://mokpo.slovrest.com/rss.xml" rel="self" type="application/rss+xml"/>
-  <lastBuildDate>Fri, 23 Oct 2026 09:00:00 +0900</lastBuildDate>
+  <lastBuildDate>Fri, 30 Oct 2026 09:00:00 +0900</lastBuildDate>
 
   <!-- RSS_ITEMS_START -->
+  <item>
+    <title>교과서 먼저 볼까요, 문제집 먼저 풀까요</title>
+    <link>https://mokpo.slovrest.com/blog/mokpo-gyogwaseo-munjejip-mueot-meonjeo.html</link>
+    <guid>https://mokpo.slovrest.com/blog/mokpo-gyogwaseo-munjejip-mueot-meonjeo.html</guid>
+    <description>평소 공부는 교과서로 개념을 확인한 뒤 문제집으로 넘어가는 순서가 기본이에요. 다만 이미 개념을 아는 단원은 문제집부터 풀고 틀린 부분만 교과서로 돌아가도 돼요. 상황별 순서와 교과서를 제대로 보는 방법을 정리했어요.</description>
+    <pubDate>Fri, 30 Oct 2026 09:00:00 +0900</pubDate>
+  </item>
   <item>
     <title>중학생 수업 필기, 다 받아 적기보다 이렇게 정리해 보세요</title>
     <link>https://mokpo.slovrest.com/blog/mokpo-jungdeung-sueop-pilgi-jeongni.html</link>
