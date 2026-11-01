@@ -6,9 +6,16 @@
   <description>목포 학교별 내신·과목별 화상과외 학습 전략</description>
   <language>ko-kr</language>
   <atom:link href="https://mokpo.slovrest.com/rss.xml" rel="self" type="application/rss+xml"/>
-  <lastBuildDate>Fri, 30 Oct 2026 09:00:00 +0900</lastBuildDate>
+  <lastBuildDate>Sun, 01 Nov 2026 09:00:00 +0900</lastBuildDate>
 
   <!-- RSS_ITEMS_START -->
+  <item>
+    <title>공부 장소, 집·도서관·스터디카페 중 어디가 좋을까요</title>
+    <link>https://mokpo.slovrest.com/blog/mokpo-gongbu-jangso-jip-doseogwan.html</link>
+    <guid>https://mokpo.slovrest.com/blog/mokpo-gongbu-jangso-jip-doseogwan.html</guid>
+    <description>공부 장소는 어디가 정답이라기보다 아이가 그 장소에서 실제로 무엇을 하는지에 따라 달라져요. 집, 도서관, 스터디카페의 장단점과 아이에게 맞는 장소를 확인하는 방법을 정리했어요.</description>
+    <pubDate>Sun, 01 Nov 2026 09:00:00 +0900</pubDate>
+  </item>
   <item>
     <title>교과서 먼저 볼까요, 문제집 먼저 풀까요</title>
     <link>https://mokpo.slovrest.com/blog/mokpo-gyogwaseo-munjejip-mueot-meonjeo.html</link>
