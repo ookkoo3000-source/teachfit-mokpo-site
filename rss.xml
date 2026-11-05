@@ -6,9 +6,16 @@
   <description>목포 학교별 내신·과목별 화상과외 학습 전략</description>
   <language>ko-kr</language>
   <atom:link href="https://mokpo.slovrest.com/rss.xml" rel="self" type="application/rss+xml"/>
-  <lastBuildDate>Tue, 03 Nov 2026 09:00:00 +0900</lastBuildDate>
+  <lastBuildDate>Thu, 05 Nov 2026 09:00:00 +0900</lastBuildDate>
 
   <!-- RSS_ITEMS_START -->
+  <item>
+    <title>목포동초등학교 학부모님이 묻는 숙제, 어디까지 도와줘야 할까요</title>
+    <link>https://mokpo.slovrest.com/blog/mokpo-dong-es-sukje-eodikkaji-dowajwo.html</link>
+    <guid>https://mokpo.slovrest.com/blog/mokpo-dong-es-sukje-eodikkaji-dowajwo.html</guid>
+    <description>초등학생 숙제는 부모님이 대신 해 주기보다 시작을 도와주고, 막힌 곳에서 질문으로 길을 열어 주고, 끝난 뒤 함께 확인하는 정도가 좋아요. 목포동초등학교 학생의 숙제를 도와줄 때 하면 좋은 것과 피하면 좋은 것을 정리했어요.</description>
+    <pubDate>Thu, 05 Nov 2026 09:00:00 +0900</pubDate>
+  </item>
   <item>
     <title>목포대성초등학교 학부모님이 묻는 일기에 무엇을 써야 할지 모르는 아이</title>
     <link>https://mokpo.slovrest.com/blog/mokpo-daeseong-es-ilgi-mueoseul-sseulji.html</link>
