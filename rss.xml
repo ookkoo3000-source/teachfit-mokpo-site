@@ -6,9 +6,16 @@
   <description>목포 학교별 내신·과목별 화상과외 학습 전략</description>
   <language>ko-kr</language>
   <atom:link href="https://mokpo.slovrest.com/rss.xml" rel="self" type="application/rss+xml"/>
-  <lastBuildDate>Thu, 05 Nov 2026 09:00:00 +0900</lastBuildDate>
+  <lastBuildDate>Sat, 07 Nov 2026 09:00:00 +0900</lastBuildDate>
 
   <!-- RSS_ITEMS_START -->
+  <item>
+    <title>목포미항초등학교 학부모님이 묻는 담임 선생님 상담, 무엇을 물어볼까요</title>
+    <link>https://mokpo.slovrest.com/blog/mokpo-mihang-es-hakbumo-sangdam-junbi.html</link>
+    <guid>https://mokpo.slovrest.com/blog/mokpo-mihang-es-hakbumo-sangdam-junbi.html</guid>
+    <description>담임 선생님과의 상담은 짧은 시간이라 미리 질문을 두세 개로 정리해 가는 것이 좋아요. 목포미항초등학교 학부모님이 상담 전에 준비할 것, 묻기 좋은 질문, 상담 뒤 집에서 이어갈 것을 정리했어요.</description>
+    <pubDate>Sat, 07 Nov 2026 09:00:00 +0900</pubDate>
+  </item>
   <item>
     <title>목포동초등학교 학부모님이 묻는 숙제, 어디까지 도와줘야 할까요</title>
     <link>https://mokpo.slovrest.com/blog/mokpo-dong-es-sukje-eodikkaji-dowajwo.html</link>
