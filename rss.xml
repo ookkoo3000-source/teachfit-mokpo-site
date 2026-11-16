@@ -6,9 +6,16 @@
   <description>목포 학교별 내신·과목별 화상과외 학습 전략</description>
   <language>ko-kr</language>
   <atom:link href="https://mokpo.slovrest.com/rss.xml" rel="self" type="application/rss+xml"/>
-  <lastBuildDate>Sat, 07 Nov 2026 09:00:00 +0900</lastBuildDate>
+  <lastBuildDate>Mon, 16 Nov 2026 09:00:00 +0900</lastBuildDate>
 
   <!-- RSS_ITEMS_START -->
+  <item>
+    <title>목포백련초등학교 학부모님이 묻는 겨울방학 생활 리듬, 어떻게 지킬까요</title>
+    <link>https://mokpo.slovrest.com/blog/mokpo-baengnyeon-es-gyeoulbanghak-saenghwal-rideum.html</link>
+    <guid>https://mokpo.slovrest.com/blog/mokpo-baengnyeon-es-gyeoulbanghak-saenghwal-rideum.html</guid>
+    <description>겨울방학에 생활 리듬이 무너지면 개학 후 적응이 힘들어져요. 목포백련초등학교 학생처럼 방학을 앞둔 아이가 일어나는 시간, 공부 시간, 쉬는 시간을 정해 리듬을 지키는 방법을 정리했어요.</description>
+    <pubDate>Mon, 16 Nov 2026 09:00:00 +0900</pubDate>
+  </item>
   <item>
     <title>목포미항초등학교 학부모님이 묻는 담임 선생님 상담, 무엇을 물어볼까요</title>
     <link>https://mokpo.slovrest.com/blog/mokpo-mihang-es-hakbumo-sangdam-junbi.html</link>
