@@ -6,9 +6,16 @@
   <description>목포 학교별 내신·과목별 화상과외 학습 전략</description>
   <language>ko-kr</language>
   <atom:link href="https://mokpo.slovrest.com/rss.xml" rel="self" type="application/rss+xml"/>
-  <lastBuildDate>Mon, 16 Nov 2026 09:00:00 +0900</lastBuildDate>
+  <lastBuildDate>Tue, 17 Nov 2026 09:00:00 +0900</lastBuildDate>
 
   <!-- RSS_ITEMS_START -->
+  <item>
+    <title>목포대연초등학교 학부모님이 묻는, 수학 시간에 자꾸 조는 아이 어려워서일까요 지루해서일까요</title>
+    <link>https://mokpo.slovrest.com/blog/mokpo-daeyeon-es-suhak-sigan-jonda.html</link>
+    <guid>https://mokpo.slovrest.com/blog/mokpo-daeyeon-es-suhak-sigan-jonda.html</guid>
+    <description>수학 시간에 조는 건 어려워서 포기한 경우와 쉬워서 지루한 경우가 정반대 이유지만 겉모습은 비슷하게 보여요. 목포대연초등학교 학부모님을 위해 두 경우를 구별하는 방법을 정리했어요.</description>
+    <pubDate>Tue, 17 Nov 2026 09:00:00 +0900</pubDate>
+  </item>
   <item>
     <title>목포백련초등학교 학부모님이 묻는 겨울방학 생활 리듬, 어떻게 지킬까요</title>
     <link>https://mokpo.slovrest.com/blog/mokpo-baengnyeon-es-gyeoulbanghak-saenghwal-rideum.html</link>
