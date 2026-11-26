@@ -6,9 +6,16 @@
   <description>목포 학교별 내신·과목별 화상과외 학습 전략</description>
   <language>ko-kr</language>
   <atom:link href="https://mokpo.slovrest.com/rss.xml" rel="self" type="application/rss+xml"/>
-  <lastBuildDate>Wed, 25 Nov 2026 09:00:00 +0900</lastBuildDate>
+  <lastBuildDate>Thu, 26 Nov 2026 09:00:00 +0900</lastBuildDate>
 
   <!-- RSS_ITEMS_START -->
+  <item>
+    <title>목포덕인고등학교 학부모님이 묻는 모의고사는 괜찮은데 학교 시험 점수가 낮을 때</title>
+    <link>https://mokpo.slovrest.com/blog/mokpo-deokin-hs-moeuigosa-neun-gwaenchan-naesin-nateul-ttae.html</link>
+    <guid>https://mokpo.slovrest.com/blog/mokpo-deokin-hs-moeuigosa-neun-gwaenchan-naesin-nateul-ttae.html</guid>
+    <description>모의고사 성적은 괜찮은데 학교 시험(내신) 점수가 그보다 낮게 나오는 고등학생이 있어요. 목포덕인고등학교 학생처럼 이런 차이가 나는 아이가 원인을 찾고 학교 시험 준비 방식을 바꿔 보는 방법을 정리했어요.</description>
+    <pubDate>Thu, 26 Nov 2026 09:00:00 +0900</pubDate>
+  </item>
   <item>
     <title>목포삼학초등학교 학부모님이 묻는, 시 외우기 숙제를 유독 힘들어하는 아이</title>
     <link>https://mokpo.slovrest.com/blog/mokpo-samhak-es-si-oeugi-himdeureowo.html</link>
